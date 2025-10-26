@@ -10,7 +10,7 @@
 - 🌐 Portfolio: [https://bhuwanpariyar.com](https://bhuwanpariyar.com)
 - ⚡ Fun fact: I love building elegant web systems that “just work” ⚙️
 
-<hr style="height:0.5px;border:none;background:#ccc;">
+<hr style="height:0.3px;border:none;background:#ccc;">
 
 ### 🛠️ Tech Stack
 
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 </p>
 
-<hr style="height:0.5px;border:none;background:#ccc;">
+<hr style="height:0.3px;border:none;background:#ccc;">
 
 ### 🌍 Connect Me On  
 
@@ -70,7 +70,7 @@
   </a>
 </p>
 
-<hr style="height:0.5px;border:none;background:#ccc;">
+<hr style="height:0.3px;border:none;background:#ccc;">
 
 ### 📈 GitHub Stats
 
@@ -90,6 +90,6 @@
   </a>
 </p>
 
-<hr style="height:0.5px;border:none;background:#ccc;">
+<hr style="height:0.3px;border:none;background:#ccc;">
 
 <h4 align="center">⭐ **“Code. Learn. Build. Repeat.”**</h4>  
