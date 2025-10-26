@@ -5,7 +5,7 @@
   I am a dedicated web developer with nearly 5 years of hands-on experience in crafting robust and scalable web applications. Proficient in developing RESTful APIs, I excel at building seamless integrations between front-end and back-end systems. My expertise includes integrating third-party services and APIs to enhance functionality, performance, and overall user experience across modern web platforms.
 </p>
 
-- 🔭 Passionate about creating impactful digital products through clean architecture, efficient backend systems, and modern frontend experiences.
+- 🔭 Building products that make an impact — and having fun doing it. 😄
 - 📫 How to reach me: **bhuwanpariyarr@gmail.com**
 - 🌐 Portfolio: [https://bhuwanpariyar.com](https://bhuwanpariyar.com)
 - ⚡ Fun fact: I love building elegant web systems that “just work” ⚙️
