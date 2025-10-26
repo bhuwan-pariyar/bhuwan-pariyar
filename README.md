@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bhuwan Pariyar</h1>
-<h3 align="center">💻 Software Engineer from Nepal 🇳🇵</h3>
+<h1 align="left">Hey there, 👋, I'm Bhuwan Pariyar</h1>
+<h3 align="left">👨‍💻 Software Engineer from Nepal 🇳🇵</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/bhuwan-pariyar">
     <img src="https://komarev.com/ghpvc/?username=bhuwan-pariyar&label=Profile%20views&color=0e75b6&style=flat" alt="bhuwan-pariyar" />
   </a>
@@ -22,24 +22,35 @@
 ### 🛠️ Tech Stack
 
 #### 💾 Backend
-- Laravel 12 / 11 / 23
-- PHP 8+
-- MySQL 8
-- REST APIs
-- JWT Authentication
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
 #### 🎨 Frontend
-- Vue.js 2 & 3
-- Vite / Webpack
-- Bootstrap 5
-- Element Plus
-- TinyMCE, Dropzone.js
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white" />
+  <img src="https://img.shields.io/badge/TinyMCE-003B57?style=for-the-badge&logo=tinymce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dropzone.js-0080FF?style=for-the-badge&logo=dropbox&logoColor=white" />
+</p>
 
 #### 🧰 Tools & Services
-- Firebase, Meilisearch
-- Docker, XAMPP, Herd
-- Git & GitHub
-- cPanel Deployment
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Meilisearch-FF4F00?style=for-the-badge&logo=meilisearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Herd-000000?style=for-the-badge&logo=laravel&logoColor=red" />
+  <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+</p>
 
 ---
 
