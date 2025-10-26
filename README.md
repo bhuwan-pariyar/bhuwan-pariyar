@@ -1,5 +1,4 @@
 <h3 align="left">Hey there, 👋, I'm Bhuwan Pariyar</h3>
----
 
 ### 👨‍💻 About Me
 <p>
@@ -72,24 +71,27 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 ---
 
 ### 📈 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=bhuwan-pariyar&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuwan-pariyar&theme=tokyonight" alt="GitHub streak" height="180"/>
+    </td>
+  </tr>
+</table>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuwan-pariyar&show_icons=true&theme=tokyonight" alt="bhuwan-pariyar" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuwan-pariyar&theme=tokyonight" alt="bhuwan-pariyar" />
-</p>
-
-<p align="left">
   <a href="https://github.com/bhuwan-pariyar">
-    <img src="https://komarev.com/ghpvc/?username=bhuwan-pariyar&label=Profile%20views&color=0e75b6&style=flat" alt="bhuwan-pariyar" />
+    <img src="https://komarev.com/ghpvc/?username=bhuwan-pariyar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ **“Code. Learn. Build. Repeat.”**</h3>  
+<h4 align="center">⭐ **“Code. Learn. Build. Repeat.”**</h4>  
