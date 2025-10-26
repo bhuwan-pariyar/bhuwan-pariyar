@@ -1,18 +1,16 @@
-<h3 align="left">Hey there, 👋, I'm Bhuwan Pariyar</h3>
+<h3 align="left">Hey there, I'm <a href="https://github.com/bhuwan-pariyar">Bhuwan Pariyar</a> 👋</h3>
 
 ### 👨‍💻 About Me
 <p>
   I am a dedicated web developer with nearly 5 years of hands-on experience in crafting robust and scalable web applications. Proficient in developing RESTful APIs, I excel at building seamless integrations between front-end and back-end systems. My expertise includes integrating third-party services and APIs to enhance functionality, performance, and overall user experience across modern web platforms.
 </p>
 
-- 🔭 Currently working on **Laravel + Vue.js Projects**
-- 🌱 Exploring **Advanced Role & Permission Systems, Firebase Push Notifications, Meilisearch, and Shopify Integrations**
-- 💬 Ask me about **Laravel, Vue.js, MySQL, Vite, and API Integrations**
+- 🔭 Passionate about creating impactful digital products through clean architecture, efficient backend systems, and modern frontend experiences.
 - 📫 How to reach me: **bhuwanpariyarr@gmail.com**
 - 🌐 Portfolio: [https://bhuwanpariyar.com](https://bhuwanpariyar.com)
-- ⚡ Fun fact: I love building elegant backend systems that “just work” ⚙️
+- ⚡ Fun fact: I love building elegant web systems that “just work” ⚙️
 
----
+<hr style="height:0.5px;border:none;background:#ccc;">
 
 ### 🛠️ Tech Stack
 
@@ -25,7 +23,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
-/>
 </p>
 
 #### 🎨 Frontend
@@ -59,9 +56,9 @@
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 </p>
 
----
+<hr style="height:0.5px;border:none;background:#ccc;">
 
-### 🌍 Connect With Me  
+### 🌍 Connect Me On  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhuwan-pariyar-18613018b/" target="_blank">
@@ -72,7 +69,7 @@
   </a>
 </p>
 
----
+<hr style="height:0.5px;border:none;background:#ccc;">
 
 ### 📈 GitHub Stats
 
@@ -92,6 +89,6 @@
   </a>
 </p>
 
----
+<hr style="height:0.5px;border:none;background:#ccc;">
 
 <h4 align="center">⭐ **“Code. Learn. Build. Repeat.”**</h4>  
